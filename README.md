@@ -1,12 +1,12 @@
 # Stevo Scripts
 
-**Youtube:** [Click Here]([https://youtu.be/rwDRBNwxC-s](https://www.youtube.com/@stevoscripts))
+**Youtube:** [Click Here](https://www.youtube.com/@stevoscripts)
 <br>
-**Documentation:** [Click Here](https://docs.stevoscripts.com/)
+**Documentation:** [Click Here](https://docs.stevoscripts.com)
 <br>
-**Discord:** https://discord.gg/stevoscripts
+**Discord:** [Click Here](https://discord.gg/stevoscripts)
 <br>
-**Website:** https://www.stevoscripts.com
+**Website:** [Click Here](https://www.stevoscripts.com)
 
 
 
