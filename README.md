@@ -4,7 +4,8 @@ We aim to provide the best resources possible!
 
 # Latest Release
 
-https://youtu.be/C2hutJTkBqk
+[![stevo_dmv](https://github.com/user-attachments/assets/0d8032e1-79c8-430d-9124-dc0ac703cb2b)](https://youtu.be/C2hutJTkBqk)
+
 
 # Links
 
