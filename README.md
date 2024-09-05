@@ -10,11 +10,9 @@
 
 
 
-# Support & Commissions
-
-
-
-<a href='https://discord.gg/stevoscripts'>![Discord Banner 2](https://discordapp.com/api/guilds/959861531514900572/widget.png?style=banner2)</a>
+<a href='https://discord.gg/stevoscripts'>![Store](https://cdn.discordapp.com/attachments/1211135036292866088/1281163425434697759/discord.png?ex=66dab7eb&is=66d9666b&hm=704473c483cb49cd3b62534207f5848a255cb8deb069bf2c0d871ac2ec8a6db8&)</a>
+<a href='https://docs.stevoscripts'>![Docs](https://cdn.discordapp.com/attachments/1211135036292866088/1281163425434697759/discord.png?ex=66dab7eb&is=66d9666b&hm=704473c483cb49cd3b62534207f5848a255cb8deb069bf2c0d871ac2ec8a6db8&)</a>
+<a href='https://discord.gg/stevoscripts'>![Discord](https://media.discordapp.net/attachments/1211135036292866088/1281163425887555659/store.png?ex=66dab7eb&is=66d9666b&hm=9419845cbe8af668938be8019133d984419388da8dfd6ce180c80009e4e048be&=&format=webp&quality=lossless)</a>
 
 
 # Stats
