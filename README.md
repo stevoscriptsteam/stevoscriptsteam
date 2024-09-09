@@ -12,5 +12,15 @@
 
 # Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevoscriptsteam&show_icons=true&theme=radical&title_color=156cbd0&text_color=156cbd0&icon_color=156cbd0&bg_color=0d1117)
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stevoscriptsteam&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stevoscriptsteam&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevoscriptsteam&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=stevoscriptsteam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
