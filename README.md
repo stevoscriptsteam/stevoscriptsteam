@@ -10,9 +10,10 @@
 
 # Links
 
-<a href='https://store.stevoscripts.com'>![Store](https://media.discordapp.net/attachments/1211135036292866088/1281163425887555659/store.png?ex=66dab7eb&is=66d9666b&hm=9419845cbe8af668938be8019133d984419388da8dfd6ce180c80009e4e048be&=&format=webp&quality=lossless)</a>
-<a href='https://docs.stevoscripts.com'>![Docs](https://media.discordapp.net/attachments/1211135036292866088/1281163425644417086/docs.png?ex=66dab7eb&is=66d9666b&hm=299f1a18e871c8c3b8d54e71c8d947be4695bd89f3eac43ff3db5ecebff3bf0c&=&format=webp&quality=lossless)</a>
-<a href='https://discord.gg/stevoscripts'>![Discord](https://github.com/user-attachments/assets/f244f365-bf29-4f81-94bd-50001469c29e)</a>
+<a href='https://store.stevoscripts.com'>![Store](https://github.com/user-attachments/assets/9cbfd0e8-c8e6-4f38-b956-dd9262d067d2)</a>
+<a href='https://docs.stevoscripts.com'>![Docs](https://github.com/user-attachments/assets/563d09cd-f4c9-426c-be95-f5a6c297d266)</a>
+<a href='https://discord.gg/stevoscripts'>![Discord](https://github.com/user-attachments/assets/2ac35fc6-6ea3-4d59-bcf4-d9983ca63cdc)</a>
+
 
 
 # 📊 GitHub Stats:
