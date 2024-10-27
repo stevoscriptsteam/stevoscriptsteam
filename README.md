@@ -1,12 +1,3 @@
-# Latest Release
-
-[![stevo_prison](https://github.com/user-attachments/assets/d5df0402-227d-49a7-b850-367ce5ff45aa)](https://youtu.be/rPl-2BZCk6g)
-
-
-
-
-
-
 
 
 # Links
