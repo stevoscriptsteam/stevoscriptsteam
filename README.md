@@ -15,6 +15,7 @@ We love providing free and open source resources for the FiveM community to enjo
 <a href='https://store.stevoscripts.com'>![Store](https://github.com/user-attachments/assets/a6bcaee8-55af-4b34-b154-b64bccaf65b9)</a>
 <a href='https://docs.stevoscripts.com'>![Docs](https://github.com/user-attachments/assets/5702ddfd-b029-44ff-b5de-dc9f12c113de)</a>
 <a href='https://discord.gg/stevoscripts'>![Discord](https://github.com/user-attachments/assets/e53155fe-06e1-4f3a-b600-dfce1d90c666)</a>
+<a href='https://www.youtube.com/@stevoscripts'>![Discord](https://github.com/user-attachments/assets/1d62b6f6-7af1-4084-a123-fc6bf3936c86)</a>
 
 
 
