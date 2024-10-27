@@ -1,3 +1,13 @@
+# We are commited to
+
+## Providing the most optimized and secure resources
+Our scripts are engineered for efficiency and security, providing your server with a seamless experience.
+
+## Quick, professional support
+Our team is commited to helping you with any and all issues, quickly and effectively!
+
+## Giving back to the community
+We love providing free and open source resources for the FiveM community to enjoy!
 
 
 # Links
