@@ -10,7 +10,7 @@
 
 # Links
 
-<a href='https://store.stevoscripts.com'>![Store](https://github.com/user-attachments/assets/9cbfd0e8-c8e6-4f38-b956-dd9262d067d2)</a>
+<a href='https://store.stevoscripts.com'>![Store](![docs](https://github.com/user-attachments/assets/5702ddfd-b029-44ff-b5de-dc9f12c113de)</a>
 <a href='https://docs.stevoscripts.com'>![Docs](https://github.com/user-attachments/assets/563d09cd-f4c9-426c-be95-f5a6c297d266)</a>
 <a href='https://discord.gg/stevoscripts'>![Discord](https://github.com/user-attachments/assets/2ac35fc6-6ea3-4d59-bcf4-d9983ca63cdc)</a>
 
